@@ -23,4 +23,22 @@ In adition, the ```<head>``` contain an author tag to link a ```humans.txt``` fi
 <link type="text/plain" rel="author" href="humans.txt" />
 ```
 
+````
+/* TEAM */
+
+Developer: Thomas G.
+                            
+GitHub: https://github.com/Drozerah
+                         
+Location: France
+                                        
+/* SITE */
+                           
+Last update: 2018/04/30
+                            
+Standards: HTML5/CSS3/SCSS/JQuery/VanillaJS 
+                            
+Software: VScode, Gulp...
+````
+
 The internet is for humans ! If you want to learn more about the ```humans.txt``` file, you can go to [About humans.txt](http://humanstxt.org/).
