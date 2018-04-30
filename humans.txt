@@ -1,0 +1,17 @@
+/* TEAM */
+
+Developer: Thomas G.
+                            
+GitHub: https://github.com/Drozerah
+contact: drozerah[x]free.fr
+                         
+Location: France
+city: Lille
+                                        
+/* SITE */
+                           
+Last update: 2018/04/30
+                            
+Standards: HTML5/CSS3/SCSS/JQuery/VanillaJS 
+                            
+Software: VScode, Gulp, SPIP
