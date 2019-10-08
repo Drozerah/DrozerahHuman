@@ -5,6 +5,12 @@ A short piece of code to get in touch with me that I use in my projects. It is c
 ```
 <a href="https://github.com/Drozerah" class="drozerah" target="_blank" title="Drozerah web développeur - trouvez moi sur GitHub">
     <span>Drozerah</span>
+    <!-- EN
+        Hello, are you looking for a contributor for one of your web projects 
+        or for the creation of your website? Feel free to contact me, 
+        more information about me by following this link:
+        https://myproject.com/humans.txt
+    -->
     <!--
         Bonjour, vous recherchez un contributeur pour l'un de vos projets web
         ou encore, pour la création de votre site internet ? N'hésitez pas à me
